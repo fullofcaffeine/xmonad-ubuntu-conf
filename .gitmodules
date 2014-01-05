@@ -1,0 +1,3 @@
+[submodule "lib/xmonad-sessions"]
+	path = lib/xmonad-sessions
+	url = git@github.com:zaxtax/xmonad-sessions.git
